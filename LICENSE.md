@@ -1,4 +1,4 @@
-# 
+# Actualizado LocalAI preajustes. Con grafos de conocimiento y soporte multimodal — optimizado para el máximo rendimiento y eficiencia.
 
 
 
